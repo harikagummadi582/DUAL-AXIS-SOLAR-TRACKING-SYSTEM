@@ -34,4 +34,4 @@ If you require further details on the hardware setup, integration with the Kodul
 
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the BSD 3-Clause License - see the [LICENSE.md](LICENSE.md) file for details.
